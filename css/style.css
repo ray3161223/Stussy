@@ -1,0 +1,97 @@
+.all{
+   
+}
+
+
+
+
+.navbar-header .navbar-brand {
+    font-size: 18px;
+    color: #a0ebeb;
+  }
+
+.carousel_word{
+    position: absolute;
+    font-size: 24px;
+    color: #c7f1f1;
+    background-color: rgba(1, 20, 20, 0.5);
+    top: 47%;
+    height: auto;
+    width: 50%;
+    text-align: center;
+    margin:0px auto;
+}
+
+.product{
+    position: relative;
+    margin-top: 30px;
+}
+
+#footer{
+    height: 55px;
+    margin-top: 30px;
+    background-color: black;
+}
+
+#footer_stussy{
+    color: #a0ebeb;
+    font-size: 18px;
+    text-align: center;
+    line-height: 55px;
+}
+
+#footer_button{
+    color: #ebf4f3;
+    font-size: 12px;
+    text-align: center;
+    line-height: 55px;
+}
+
+#copyright{
+    color: #ebf4f3;
+    font-size: 5px;
+    text-align: center;
+    line-height: 55px;
+}
+
+#icons{
+    line-height: 55px;
+    text-align: center;
+}
+
+@media screen and (min-width: 768px) and (max-width: 992px) {
+    
+    #footer{
+        height: 160px;
+        margin-top: 30px;
+        background-color: black;
+    }
+
+    #copyright{
+        color: #ebf4f3;
+        font-size: 5px;
+        text-align: center;
+        line-height: 30px;
+    }
+
+
+}
+
+
+@media screen and (min-width: 1px) and (max-width: 768px) {
+    
+    #footer{
+        height: 350px;
+        margin-top: 30px;
+        background-color: black;
+    }
+
+    #copyright{
+        color: #ebf4f3;
+        font-size: 5px;
+        text-align: center;
+        line-height: 30px;
+    }
+
+
+}
